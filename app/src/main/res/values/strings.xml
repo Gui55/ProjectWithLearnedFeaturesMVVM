@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Super Otaku Room</string>
+    <string name="cadastroWord">Cadastrar Usuário</string>
+    <string name="loginWord">Login</string>
+    <string name="passwordWord">Senha</string>
+    <string name="userWord">Usuário</string>
+    <string name="tirarFotoWord">Tirar Foto</string>
+    <string name="fotoPerfilText">Foto do Perfil</string>
+    <string name="repitaSenhaWord">Confirme essa senha</string>
+    <string name="digiteSenhaWord">Crie uma senha</string>
+    <string name="crieSenhaText">Senha</string>
+    <string name="emailWord">E-mail</string>
+    <string name="sobreNomeWord">Sobrenome</string>
+    <string name="dadosBasicoText">Dados Básicos</string>
+    <string name="nomeWord">Nome</string>
+</resources>
